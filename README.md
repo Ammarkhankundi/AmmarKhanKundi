@@ -35,23 +35,16 @@ Committed to maintaining a high standard of work and continuously improving to m
 
 Skills :
 Programming Languages: Python, JavaScript, C++
-Web Development: HTML, CSS, React, Node.js
+Web Development: HTML, CSS, React
 Graphic Design: Adobe Photoshop, Illustrator
-Tools & Technologies: Git, GitHub, AWS, Docker
+Tools & Technologies: Git, GitHub
 Soft Skills: Leadership, Teamwork, Communication, Problem-solving
-Projects
-Project Name
-Description: Developed a web-based application for managing tasks using Django and React.
 
-Implemented user authentication and authorization.
-Designed and developed RESTful APIs.
-Deployed the application on AWS.
-Another Project Name
-Description: Created a mobile app for tracking fitness activities using Flutter.
+COURSES: 
+Cisco Certified Network Associate (CCNA)
+Completed the CCNA course focused on Network
+handling and response, provided by Corvite.
 
-Integrated with external APIs for real-time data.
-Implemented a local database for offline access.
-Designed the UI/UX using Figma.
 
 Contact:
 Email: ammarkundi23@gmail.com
